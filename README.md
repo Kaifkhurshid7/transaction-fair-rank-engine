@@ -673,13 +673,6 @@ Contributions welcome! Please:
 
 MIT License - see [LICENSE](LICENSE) file
 
-## 🙋 Support
 
-For questions or issues:
-- Open an issue on GitHub
-- Check documentation: `http://localhost:8000/api/docs`
-- Email: support@example.com
 
----
-
-**Built with ❤️ by Backend Engineers**
+**Built with ❤️ by Kaif khurshid**
